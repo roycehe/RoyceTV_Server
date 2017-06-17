@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Server
 //
-//  Created by 小码哥 on 2016/12/11.
-//  Copyright © 2016年 xmg. All rights reserved.
+//  Created by Royce on 2016/12/11.
+//  Copyright © 2016年 Royce. All rights reserved.
 //
 
 import Cocoa
